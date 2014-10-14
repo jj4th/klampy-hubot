@@ -1,1 +1,1 @@
-web: bin/hubot --adapter slack -n Clampy
+web: bin/hubot --adapter slack 
