@@ -25,6 +25,7 @@
     "hubot-plusplus": "^1.1.2",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-slack": "^3.1.0",
+    "hubot-urban": "^1.0.0",
     "jsdom": ">=0.1.20 < 1.0.0",
     "scraper": "0.0.9"
   },
